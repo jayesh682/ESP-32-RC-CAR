@@ -1,1 +1,1 @@
-his repository contains code and diagram for ESPNOW RC Car using esp32
+I have build a RC car using esp32 microcontroller's ESPNOW protocol which allows 2 ESP's to communicate with each other and perform functions. I have used 2dc motors to drive the car and a chasis to structure the car. I have used a L298N motor driver to control the motor and a DC power supply. In transmitter I have connected a joystick to the ESP32 to control the car. Recently, I was not able to give time to my this hobby so to return to it I thought why not to start with something simple.
